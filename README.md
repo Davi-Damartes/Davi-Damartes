@@ -3,9 +3,10 @@
 <h3 align="center">Sou Desenvolvedor .Net com foco em aplicações Webapi, Mvc, MinimalApi.</h3>
 <img aligh="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/ff99405b7da515ebb59af18554d49c72b837005b82e00439eeb63e4b1189da03/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
-- 🌱 Estou atualmente aprendendo **Blazor**
+- 🌱 Estou atualmente estudando prjetos envolvendo **ASP.NET MVC**  **ASP.NET WebApi**  **MinimalApi** **Blazor**
 
 - 📫 Contato E-mail **davi.damartes@gmail.com**
+-  📫 Linkedin **https://www.linkedin.com/in/davi-lima-434605303/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

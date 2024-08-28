@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Olá 👋, Meu Nome Davi</h1>
+<h1 align="center">Olá 👋, Meu Nome é Davi</h1>
 <h3 align="center">Sou Desenvolvedor .Net com foco em aplicações Webapi, Mvc, MinimalApi e Blazor.</h3>
 <img aligh="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/ff99405b7da515ebb59af18554d49c72b837005b82e00439eeb63e4b1189da03/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
